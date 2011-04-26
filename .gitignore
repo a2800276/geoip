@@ -1,0 +1,4 @@
+*.swp
+classes/
+geoip.db
+*.swo
